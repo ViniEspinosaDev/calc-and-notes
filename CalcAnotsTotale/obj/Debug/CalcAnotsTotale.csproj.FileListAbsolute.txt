@@ -1,0 +1,10 @@
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\bin\Debug\CalcAnotsTotale.exe.config
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\bin\Debug\CalcAnotsTotale.exe
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\bin\Debug\CalcAnotsTotale.pdb
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\obj\Debug\CalcAnotsTotale.csprojAssemblyReference.cache
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\obj\Debug\CalcAnotsTotale.FrmMenu.resources
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\obj\Debug\CalcAnotsTotale.Properties.Resources.resources
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\obj\Debug\CalcAnotsTotale.csproj.GenerateResource.cache
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\obj\Debug\CalcAnotsTotale.csproj.CoreCompileInputs.cache
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\obj\Debug\CalcAnotsTotale.exe
+C:\Users\vinie\Documents\Arquivos\Vinicius\Desenvolvimento\CalcAnotsTotale\CalcAnotsTotale\obj\Debug\CalcAnotsTotale.pdb
